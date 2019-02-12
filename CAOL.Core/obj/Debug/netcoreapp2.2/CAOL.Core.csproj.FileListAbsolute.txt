@@ -1,0 +1,9 @@
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\bin\Debug\netcoreapp2.2\CAOL.Core.deps.json
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\bin\Debug\netcoreapp2.2\CAOL.Core.dll
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.AssemblyInfo.cs
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\bin\Debug\netcoreapp2.2\CAOL.Core.pdb
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.dll
+C:\Users\frank\source\repos\CAOLProyect\CAOL.Core\obj\Debug\netcoreapp2.2\CAOL.Core.pdb
