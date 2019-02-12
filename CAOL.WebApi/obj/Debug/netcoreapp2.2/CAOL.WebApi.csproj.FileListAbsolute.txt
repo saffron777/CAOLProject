@@ -1,0 +1,17 @@
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.WebApi.deps.json
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.WebApi.runtimeconfig.json
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.WebApi.runtimeconfig.dev.json
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.WebApi.dll
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.WebApi.pdb
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.Core.dll
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\bin\Debug\netcoreapp2.2\CAOL.Core.pdb
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.RazorAssemblyInfo.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.RazorAssemblyInfo.cs
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.AssemblyInfo.cs
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.csproj.CopyComplete
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.dll
+C:\Users\frank\source\repos\CAOLProyect\CAOL.WebApi\obj\Debug\netcoreapp2.2\CAOL.WebApi.pdb
